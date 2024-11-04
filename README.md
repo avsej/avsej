@@ -4,5 +4,5 @@ My name is Sergey and I make tools for developers who use [Couchbase](https://de
 
 * [couchbase/couchbase-ruby-client](https://github.com/couchbase/couchbase-ruby-client)
 * [couchbase/couchbase-php-client](https://github.com/couchbase/couchbase-php-client)
-* [couchbaselabs/couchbase-cxx-client](https://github.com/couchbaselabs/couchbase-cxx-client)
+* [couchbase/couchbase-cxx-client](https://github.com/couchbase/couchbase-cxx-client)
 * [couchbase/libcouchbase](https://github.com/couchbase/libcouchbase)
